@@ -53,6 +53,10 @@ usb:v058Fp9540*
 usb:v32ACp0002*
 # DisplayPort Expansion Card
 usb:v32ACp0003*
+# 250GB/1TB Storage Expansion Card (1st and 2nd Gen)
+usb:v32ACp0005*
+# 250GB/1TB Storage Expansion Card (3rd Gen)
+usb:v32ACp002E*
  ID_AUTOSUSPEND=1
 
 #########################################
