@@ -29,6 +29,7 @@
 #   Specify whether a touchpad is a built-in one or external:
 #   ID_INPUT_TOUCHPAD_INTEGRATION=internal|external
 
+touchpad:i2c:*
 touchpad:i8042:*
 touchpad:rmi:*
 touchpad:usb:*
